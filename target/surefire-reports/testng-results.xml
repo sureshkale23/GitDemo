@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="32" started-at="2021-05-08T19:38:15 IST" finished-at="2021-05-08T19:38:15 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="32" started-at="2021-05-08T19:38:15 IST" finished-at="2021-05-08T19:38:15 IST">
+      <class name="sureshacademy.RestAPITest">
+        <test-method status="PASS" signature="restapiTest()[pri:0, instance:sureshacademy.RestAPITest@72b6cbcc]" name="restapiTest" duration-ms="3" started-at="2021-05-08T19:38:15 IST" finished-at="2021-05-08T19:38:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- restapiTest -->
+      </class> <!-- sureshacademy.RestAPITest -->
+      <class name="sureshacademy.SeleniumTest">
+        <test-method status="PASS" signature="test1()[pri:0, instance:sureshacademy.SeleniumTest@2a17b7b6]" name="test1" duration-ms="0" started-at="2021-05-08T19:38:15 IST" finished-at="2021-05-08T19:38:15 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test1 -->
+      </class> <!-- sureshacademy.SeleniumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
